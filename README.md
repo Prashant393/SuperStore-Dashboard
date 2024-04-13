@@ -1,1 +1,1 @@
-# SuperStore-Dashboard
+# SuperStore-Power BI Dashboard
